@@ -37,7 +37,7 @@ docker ps
 
 Open the application in browser:
 
-http://<EC2-Public-IP>:3000
+http://65.1.91.159:3000
 
 ## Step 7: S3 Backup
 
